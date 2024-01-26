@@ -14,6 +14,16 @@
 -->
 ---
 
+<h2> Skills </h2>
+
+<div>
+  <img  alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img  alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+</div>
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
