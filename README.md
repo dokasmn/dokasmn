@@ -1,11 +1,7 @@
 ### 👋
 
-![dokasmn GitHub  stats](https://github-readme-stats.vercel.app/api?username=dokasmn&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
+![dokasmn GitHub  stats](https://github-readme-stats.vercel.app/api?username=dokasmn&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokasmn&layout=compact)
-
-<p>Aspirante a programador</p> 
-<p>Trabalhando na Bosch limitada</p> 
----
 
 <h2> Skills </h2>
 
