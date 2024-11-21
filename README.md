@@ -1,15 +1,18 @@
-### 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Cauan%20de%20Souza&reversal=false&fontColor=ffffff&animation=fadeIn&theme=radical"/>
+  <p>Welcome, this is my Github 👋</p>
+</div>
 
-![dokasmn GitHub  stats](https://github-readme-stats.vercel.app/api?username=dokasmn&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokasmn&layout=compact)
+<br><br>
 
 <h2>
 Contact
 </h2>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]()
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white)]()
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<br><br>
 
 <h2>
 My knowledge
@@ -50,20 +53,19 @@ My knowledge
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<br><br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<h2 style="color: #d83a7c;">Stats</h2>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dokasmn&show_icons=true&count_private=true&hide_border=true&title_color=d83a7c&icon_color=d83a7c&text_color=ffffff&bg_color=0d1117" alt="Cauan de Souza github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokasmn&layout=compact&hide_border=true&title_color=d83a7c&text_color=ffffff&bg_color=0d1117"/>
+</div>
+<br><br><br>
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=300&&reversal=false&fontColor=ffffff&animation=fadeIn&section=footer&theme=radical"/>
+</div>
+
 
 
