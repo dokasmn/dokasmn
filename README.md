@@ -1,3 +1,7 @@
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&bg_color=d83a7c"/>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Cauan%20de%20Souza&reversal=false&fontColor=ffffff&animation=fadeIn&theme=radical"/>
   <p>Welcome, this is my Github 👋</p>
