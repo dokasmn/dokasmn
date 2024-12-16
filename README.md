@@ -3,8 +3,6 @@
   <p>Welcome, this is my Github 👋</p>
 </div>
 
-<br><br>
-
 <h2>
 Contact
 </h2>
@@ -12,12 +10,9 @@ Contact
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<br><br>
-
 <h2>
 My knowledge
 </h2>
-
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,15 +48,13 @@ My knowledge
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<br><br>
-
 <h2 style="color: #d83a7c;">Stats</h2>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dokasmn&show_icons=true&count_private=true&hide_border=true&title_color=d83a7c&icon_color=d83a7c&text_color=ffffff&bg_color=0d1117" alt="Cauan de Souza github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokasmn&layout=compact&hide_border=true&title_color=d83a7c&text_color=ffffff&bg_color=0d1117"/>
 </div>
-<br><br><br>
+
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=300&&reversal=false&fontColor=ffffff&animation=fadeIn&section=footer&theme=radical"/>
