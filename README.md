@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Cauan%20de%20Souza&reversal=false&fontColor=ffffff&animation=fadeIn&theme=radical"/>
 </div>
-
 <h2>
 Contact
 </h2>
